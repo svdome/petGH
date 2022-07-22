@@ -1,7 +1,7 @@
 <?php
 
 $name = $_GET['name'];
-$names = ['mary', 'maria', 'marcello'];
+$names = ['mary', 'maria', 'marcello', 'mark', 'maxim', 'mike'];
 $name = strtolower($name);
 
 $response = '';

@@ -9,7 +9,7 @@
 </head>
 <body>
     <input type="text" id="usertext" oninput="Process()">
-    <input type="submit">
+    <input type="submit" name="text">
     <div id="result"></div>
 
     
